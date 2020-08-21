@@ -5,6 +5,7 @@ fix:
 feature:
 improve:
 structure:
+refactor:
 
 Middle words:
 
